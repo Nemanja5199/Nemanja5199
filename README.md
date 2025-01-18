@@ -16,13 +16,11 @@ I'm a Software/Embedded engineer that likes to build web apps and iot projects
 </div>
 
 
-
-
-
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemanja5199/Nemanja5199/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemanja5199/Nemanja5199/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nemanja5199/Nemanja5199/output/github-snake.svg" />
+</picture>
 
 
 
