@@ -10,7 +10,7 @@ I'm a Software/Embedded engineer that likes to build web apps and iot projects
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemanja5199&theme=dark&hide_border=false" width="450" height="180" alt="Nemanja5199's Github stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Nemanja5199&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="450" height="180" alt="Nemanja5199's Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemanja5199&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=Rekreativni-Tenis,Detekcija-Boje,Hack-PC,Flappy-Bird-Unity,Cooking-Game" width="380" height="180" alt="Nemanja5199's Language stats" />
   </p>
 </div>
